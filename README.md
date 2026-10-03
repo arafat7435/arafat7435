@@ -1,21 +1,19 @@
-![](https://rest.ishanoshada.com/svg/banner/dev4/Sancho)
+![](https://rest.ishanoshada.com/svg/banner/dev4/Arafat)
 
-![](https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&width=435&lines=%3E+A+Software+Developer;%3E+A++Cybersecurity+Researcher;%3E+A+Tech+Enthusiast;%3E+An+Investor)
+![](https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&width=435&lines=%3E+A+Software+Developer;%3E+A++CS+Student;%3E+A+Tech+Founder)
 
 ###
 
 <div align="left">
   👨‍💻 Some of the things that I know: <br/>
-  <img src="https://skillicons.dev/icons?i=html,css,js,bun,typescript,nodejs,react,bash,python,ubuntu,vscode,jquery,git,github,markdown,docker&perline=16" />
-  <br/>
-  <a href="https://sancho.sg-app.com/?utm_source=github-sancho-readme">...</a>
+  <img src="https://skillicons.dev/icons?i=html,css,js,bun,typescript,nodejs,react,bash,python,vscode,jquery,git,github,markdown&perline=16" />
 </div>
 
 ###
 
 📈 Some stats:  
-![](https://github-stats-alpha.vercel.app/api?username=sancho1952007&cc=000&tc=fff&ic=fff&bc=000)
+![](https://github-stats-alpha.vercel.app/api?username=arafat7435&cc=000&tc=fff&ic=fff&bc=000)
 
 ###
 
-  Find more about me @ [sancho.sg-app.com](https://sancho.sg-app.com?utm_source=github-sancho-readme)
+
