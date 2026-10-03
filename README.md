@@ -1,46 +1,24 @@
-<!--
-  SETUP
-  1. Create a PUBLIC repo named exactly like your GitHub username. Upload README.md and the "assets" folder (keep the folder name).
-  2. Search the whole folder for YOUR_ (VS Code: Ctrl+Shift+H) and replace:
-     YOUR_NAME, YOUR_USERNAME, YOUR_LINKEDIN, YOUR_EMAIL@example.com, YOUR_PORTFOLIO.com
-  3. Text in [brackets] lives inside the SVG files in /assets. Open them in any editor and edit the text.
--->
+# 💫 About Me:
+Founder | CS-Student | Full Stack Developer
 
-<div align="center">
 
-<img src="assets/banner.svg" width="100%" alt="YOUR_NAME, software engineer and builder" />
+## 🌐 Socials:
+[![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/SyedArafat_) 
 
-<p>
-  <a href="https://github.com/YOUR_USERNAME"><img src="assets/btn-github.svg" alt="GitHub" /></a>
-  <a href="https://www.linkedin.com/in/YOUR_LINKEDIN/"><img src="assets/btn-linkedin.svg" alt="LinkedIn" /></a>
-  <a href="mailto:YOUR_EMAIL@example.com"><img src="assets/btn-email.svg" alt="Email" /></a>
-  <a href="https://YOUR_PORTFOLIO.com"><img src="assets/btn-portfolio.svg" alt="Portfolio" /></a>
-</p>
+# 💻 Tech Stack:
+![Python](https://img.shields.io/badge/python-3670A0?style=plastic&logo=python&logoColor=ffdd54) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=plastic&logo=javascript&logoColor=%23F7DF1E) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=plastic&logo=csharp&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=plastic&logo=html5&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=plastic&logo=typescript&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=plastic&logo=css3&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=plastic&logo=google-cloud&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=plastic&logo=amazon-aws&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=plastic&logo=microsoftazure&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=plastic&logo=netlify&logoColor=#00C7B7) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=plastic&logo=vercel&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=plastic&logo=firebase&logoColor=ffcd34) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=plastic&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=plastic&logo=mysql&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=plastic&logo=supabase&logoColor=white) ![Adobe After Effects](https://img.shields.io/badge/Adobe%20After%20Effects-9999FF.svg?style=plastic&logo=Adobe%20After%20Effects&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=plastic&logo=adobe%20photoshop&logoColor=white) ![Adobe Premiere Pro](https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF.svg?style=plastic&logo=Adobe%20Premiere%20Pro&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=plastic&logo=pandas&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=plastic&logo=PyTorch&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=plastic&logo=scikit-learn&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=plastic&logo=TensorFlow&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=plastic&logo=numpy&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=plastic&logo=github&logoColor=white) ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=plastic&logo=gitlab&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=plastic&logo=git&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.shion.dev/api?username=arafat7435&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://streak-stats.demolab.com/?user=arafat7435&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=arafat7435&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-</div>
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=arafat7435&theme=dark&no-frame=false&no-bg=true&margin-w=4)
 
-<img src="assets/h-about.svg" width="100%" alt="About" />
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=arafat7435&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
-<img src="assets/about.svg" width="100%" alt="About me: role, focus, location, what I'm building and learning" />
+---
+[![](https://komarev.com/ghpvc/?username=arafat7435&icon=3&color=8)](https://visitcount.itsvg.in)
 
-<img src="assets/h-stack.svg" width="100%" alt="Stack" />
-
-<img src="assets/stack.svg" width="100%" alt="TypeScript, JavaScript, Python, Java, C++, React, Next.js, Tailwind CSS, Node.js, Express, FastAPI, PostgreSQL, MySQL, MongoDB, Redis, Docker, Git, Linux, AWS, Vercel, Figma" />
-
-<img src="assets/h-work.svg" width="100%" alt="Selected work" />
-
-<p align="center">
-  <a href="https://github.com/YOUR_USERNAME/project-one"><img src="assets/project-1.svg" width="49%" alt="Project one" /></a>
-  <a href="https://github.com/YOUR_USERNAME/project-two"><img src="assets/project-2.svg" width="49%" alt="Project two" /></a>
-  <a href="https://github.com/YOUR_USERNAME/project-three"><img src="assets/project-3.svg" width="49%" alt="Project three" /></a>
-  <a href="https://github.com/YOUR_USERNAME?tab=repositories"><img src="assets/project-4.svg" width="49%" alt="Open source" /></a>
-</p>
-
-<img src="assets/h-activity.svg" width="100%" alt="Activity" />
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&include_all_commits=true&rank_icon=github&bg_color=101830&border_color=22304f&title_color=fb7185&icon_color=fbbf24&text_color=cbd5f5&ring_color=fb7185&border_radius=20" width="49%" alt="GitHub stats" />
-  <img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&background=101830&border=22304F&border_radius=20&stroke=22304F&ring=FB7185&fire=FBBF24&currStreakNum=EAF0FF&sideNums=EAF0FF&currStreakLabel=FB7185&sideLabels=8FA1C7&dates=8FA1C7" width="49%" alt="GitHub streak" />
-</p>
-
-<a href="mailto:YOUR_EMAIL@example.com"><img src="assets/footer.svg" width="100%" alt="Let's build something great. Say hello by email." /></a>
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
